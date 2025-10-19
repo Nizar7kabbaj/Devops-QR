@@ -24,8 +24,6 @@ A FastAPI service that receives URLs, generates QR codes, and uploads them to **
 3. Create a virtual environment:  
    ```bash
    python -m venv .venv
-
-
 4. Activate it and install dependencies:
 
    ```bash
